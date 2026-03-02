@@ -1,0 +1,6 @@
+print()
+print("=" * 12)
+print("Week 01")
+print("=" * 12)
+print("Hello World!")
+print("=" * 12)
