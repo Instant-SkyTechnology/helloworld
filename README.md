@@ -8,6 +8,8 @@ This software outputs “Hello, World!” to the console, serving as a first ste
 
 The purpose is to practice Python syntax and familiarize myself with basic concepts like writing, running, and displaying output, which lays the foundation for more complex projects.
 
+Software Demo Video: https://youtu.be/NBzZeouCLQs
+
 # Development Environment
 
 I developed this software using Python 3, which is an easy-to-learn and powerful programming language that’s widely used for various applications. I used VS Code (Visual Studio Code) as my Integrated Development Environment (IDE) because of its ease of use, wide range of extensions, and built-in terminal support, making it ideal for quick script development.
